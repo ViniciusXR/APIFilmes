@@ -23,6 +23,7 @@
 
 ## Descrição do projeto 
  <p>Uma API REST de teste, para cadastrar dados relacionados a um filme em um banco de dados.</p>
+ <p>Nesta API foi utilizado o banco de dados MySQL 8.0.30.</p>
  
 ![SS01](https://user-images.githubusercontent.com/101216409/195956463-6bfc2ea7-5560-43c7-bb40-41c370a65eef.jpg)
 
@@ -35,12 +36,12 @@
 
 ## Funcionalidades
 
-:heavy_check_mark: Permite cadastrar, atualizar, buscar dados e deletar 
+:heavy_check_mark: Permite cadastrar, atualizar, buscar e deletar dados relacionado a um filme e um cinema  
 
 
 ## Pré-requisitos
 
-:warning: [MySQL](https://dev.mysql.com/downloads/installer/)
+:warning: [MySQL 8.0.30](https://dev.mysql.com/downloads/installer/)
 
 :warning: [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
